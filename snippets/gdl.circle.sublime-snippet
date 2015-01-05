@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[circle (${1:r})]]></content>
-    <tabTrigger>circle</tabTlgger>
+    <tabTrigger>circle</tabTrigger>
     <scope>source.gdl</scope>
     <description>CIRCLE r</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[addgroup (${1:g_expr1}, ${1:g_expr2})]]></content>
-    <tabTrigger>addgroup</tabTlgger>
+    <tabTrigger>addgroup</tabTrigger>
     <scope>source.gdl</scope>
     <description>ADDGROUP (g_expr1, g_expr2)</description>
 </snippet>

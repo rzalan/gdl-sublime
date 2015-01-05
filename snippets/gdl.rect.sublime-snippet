@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[rect (${1:a}, ${2:b})]]></content>
-    <tabTrigger>rect</tabTlgger>
+    <tabTrigger>rect</tabTrigger>
     <scope>source.gdl</scope>
     <description>RECT a, b</description>
 </snippet>

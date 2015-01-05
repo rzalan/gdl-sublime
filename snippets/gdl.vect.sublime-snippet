@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[vect (${1:x}, ${2:y}, ${3:z})]]></content>
-    <tabTrigger>vect</tabTlgger>
+    <tabTrigger>vect</tabTrigger>
     <scope>source.gdl</scope>
     <description>VECT x, y, z</description>
 </snippet>

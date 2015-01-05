@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[vert (${1:x}, ${2:y}, ${3:z})]]></content>
-    <tabTrigger>vert</tabTlgger>
+    <tabTrigger>vert</tabTrigger>
     <scope>source.gdl</scope>
     <description>VERT x, y, z</description>
 </snippet>

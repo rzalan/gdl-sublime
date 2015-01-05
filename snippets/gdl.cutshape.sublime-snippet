@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[cutshape (${1:d} [, ${2:status}] [${3:statement1} ${4:statement2} ... ${5:statementn}]
 cutend ]]></content>
-    <tabTrigger>cutshape</tabTlgger>
+    <tabTrigger>cutshape</tabTrigger>
     <scope>source.gdl</scope>
     <description>CUTSHAPE d [, status] [statement1 statement2 ... statementn] CUTEN</description>
 </snippet>

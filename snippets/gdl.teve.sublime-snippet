@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[teve2} (${1:x}, ${2:y}, ${3:z}, ${4:u}, ${5:v})]]></content>
-    <tabTrigger>teve</tabTlgger>
+    <tabTrigger>teve</tabTrigger>
     <scope>source.gdl</scope>
     <description>TEVE x, y, z, u, v</description>
 </snippet>

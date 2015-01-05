@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[hotarc (${1:r}, ${2:alpha}, ${3:beta}, ${4:unID})]]></content>
-    <tabTrigger>hotarc</tabTlgger>
+    <tabTrigger>hotarc</tabTrigger>
     <scope>source.gdl</scope>
     <description>HOTARC r, alpha, beta, unID</description>
 </snippet>

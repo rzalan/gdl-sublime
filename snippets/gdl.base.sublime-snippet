@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[base]]></content>
-    <tabTrigger>base</tabTlgger>
+    <tabTrigger>base</tabTrigger>
     <scope>source.gdl</scope>
     <description>BASE</description>
 </snippet>
