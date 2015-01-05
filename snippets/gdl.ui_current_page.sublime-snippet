@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_current_page ${1:index}]]></content>
+    <tabTrigger>ui_current_page</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_current_page index</description>
+</snippet>
+

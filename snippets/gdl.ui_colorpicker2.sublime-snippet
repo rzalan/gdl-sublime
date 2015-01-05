@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_colorpicker{2} ${1:redParamName}, ${2:greenParamName}, ${3:blueParamName}, ${4:x0}, ${5:y0} [, ${6:width} [, ${7:height}]]]]></content>
+    <tabTrigger>ui_colorpicker{2}</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_colorpicker{2} redParamName, greenParamName, blueParamName, x0, y0 [, width [, height]]</description>
+</snippet>
+

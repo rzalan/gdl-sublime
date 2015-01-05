@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_listitem ${1:itemID}, ${2:fieldID}, "${3:name}" [, ${4:childFlag} [, ${5:image} [, ${6:paramDesc}]]]]]></content>
+    <tabTrigger>ui_listitem</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_listitem itemID, fieldID, "name" [, childFlag [, image [, paramDesc]]]</description>
+</snippet>
+

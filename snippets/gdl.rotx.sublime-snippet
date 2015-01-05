@@ -1,8 +1,8 @@
 <!-- AROT2 -->
 <snippet>
-    <content><![CDATA[rotx(${1:alphax})]]></content>
+    <content><![CDATA[rotx ${1:alphax}]]></content>
     <tabTrigger>rotx</tabTrigger>
     <scope>source.gdl</scope>
-    <description>ROTX alphax</description>
+    <description>rotx alphax</description>
 </snippet>
 

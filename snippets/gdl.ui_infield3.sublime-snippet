@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[ui_infield{3} ${1:name}, ${2:x}, ${3:y}, ${4:width}, ${5:height} [,
+    	${6:method}, ${7:picture_name}, 
+    	${8:images_number},
+    	${9:rows_number}, ${10:cell_x}, ${11:cell_y},
+    	${12:image_x}, ${13:image_y},
+    	${14:expression_image1}, ${15:text1}, ${16:value_definition1},
+    	...
+    	${17:expression_imagen}, ${18:textn}, ${19:value_definitionn}]]]></content>
+    <tabTrigger>ui_infield{3}</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_infield{3} name, x, y, width, height [, method, picture_name, images_number, rows_number, cell_x, cell_y, image_x, image_y, expression_image1, text1, value_definition1, ... expression_imagen, textn, value_definitionn]</description>
+</snippet>
+

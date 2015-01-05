@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_dialog ${1:title}, ${2:size_x}, ${3:size_y}]]></content>
+    <tabTrigger>ui_dialog</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_dialog title [, size_x, size_y]</description>
+</snippet>
+

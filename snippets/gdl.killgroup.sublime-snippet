@@ -2,6 +2,6 @@
     <content><![CDATA[killgroup ${1:g_expr1}]]></content>
     <tabTrigger>killgroup</tabTrigger>
     <scope>source.gdl</scope>
-    <description>KILLGROUP g_expr</description>
+    <description>killgroup g_expr</description>
 </snippet>
 

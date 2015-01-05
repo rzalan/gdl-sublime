@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_pict ${1:picture_reference}, ${2:x}, ${3:y}, ${4:width}, ${5:height}, ${6:mask}]]></content>
+    <tabTrigger>ui_pict</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_pict picture_reference, x, y [, width, height [, mask]]</description>
+</snippet>
+

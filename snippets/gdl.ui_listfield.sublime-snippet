@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_listfield ${1:fieldID}, ${2:x}, ${3:y}, ${4:width}, ${5:height} [, ${6:iconFlag} [, ${7:description_header} [, ${8:value_header}]]]]]></content>
+    <tabTrigger>ui_listfield</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_listfield fieldID, x, y, width, height [, iconFlag [, description_header [, value_header]]]</description>
+</snippet>
+

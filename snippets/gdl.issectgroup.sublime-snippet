@@ -2,6 +2,6 @@
     <content><![CDATA[isectgroup (${1:g_expr1}, ${2:g_expr2})]]></content>
     <tabTrigger>isectgroup</tabTrigger>
     <scope>source.gdl</scope>
-    <description>ISECTGROUP (g_expr1, g_expr2)</description>
+    <description>isectgroup (g_expr1, g_expr2)</description>
 </snippet>
 

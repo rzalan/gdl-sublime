@@ -2,6 +2,6 @@
     <content><![CDATA[placegroup ${1:g_expr1}]]></content>
     <tabTrigger>placegroup</tabTrigger>
     <scope>source.gdl</scope>
-    <description>PLACEGROUP g_expr</description>
+    <description>placegroup g_expr</description>
 </snippet>
 

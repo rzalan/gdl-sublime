@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ui_page ${1:page_number}, ${2:parent_id}, ${3:page_title}, ${3:image}]]></content>
+    <tabTrigger>ui_page</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_page page_number [, parent_id, page_title [, image]]</description>
+</snippet>

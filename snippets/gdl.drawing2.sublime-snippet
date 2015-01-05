@@ -2,6 +2,6 @@
     <content><![CDATA[drawing2 ${1:expression}]]></content>
     <tabTrigger>drawing2</tabTrigger>
     <scope>source.gdl</scope>
-    <description>DRAWING2 [expression]</description>
+    <description>drawing2 [expression]</description>
 </snippet>
 

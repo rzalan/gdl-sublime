@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ui_button ${1:type}, ${2:text}, ${3:x}, ${4:y}, ${5:width}, ${6:height}, ${7:id}, ${8:url}]]></content>
+    <tabTrigger>ui_button</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_button type, text, x, y [, width, height, id [, url]]</description>
+</snippet>

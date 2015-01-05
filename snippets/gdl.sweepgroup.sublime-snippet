@@ -2,6 +2,6 @@
     <content><![CDATA[sweepgroup (${1:g_expr1}, ${2:x}, ${3:y}, ${4:z})]]></content>
     <tabTrigger>sweepgroup</tabTrigger>
     <scope>source.gdl</scope>
-    <description>SWEEPGROUP (g_expr, x, y, z)</description>
+    <description>sweepgroup (g_expr, x, y, z)</description>
 </snippet>
 

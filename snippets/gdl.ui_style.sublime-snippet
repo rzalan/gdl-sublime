@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_style ${1:fontsize}, ${2:face_code}]]></content>
+    <tabTrigger>ui_style</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_style fontsize, face_code</description>
+</snippet>
+

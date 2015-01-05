@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_radiobutton ${1:name}, ${2:value}, ${3:text}, ${4:x}, ${5:y}, ${6:width}, ${7:height}]]></content>
+    <tabTrigger>ui_radiobutton</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_radiobutton name, value, text, x, y, width, height</description>
+</snippet>
+

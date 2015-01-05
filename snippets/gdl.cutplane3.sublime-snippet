@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[cutplane{2} (${1:angle}, [, ${2:status}] [${3:statement1} ... ${4:statementn}])
+    <content><![CDATA[cutplane{3} ${1:angle}, [, ${2:status}] [${3:statement1} ... ${4:statementn}]
 cutend ]]></content>
-    <tabTrigger>cutplane{2}</tabTrigger>
+    <tabTrigger>cutplane{3}</tabTrigger>
     <scope>source.gdl</scope>
-    <description>CUTPLANE{2} angle [, status] [statement1 ... statementn] CUTEND</description>
+    <description>cutplane{3} angle [, status] [statement1 ... statementn] cutend</description>
 </snippet>
 

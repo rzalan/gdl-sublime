@@ -1,8 +1,7 @@
-<!-- AROT2 -->
 <snippet>
-    <content><![CDATA[mulx(${1:mx})]]></content>
+    <content><![CDATA[mulx ${1:mx}]]></content>
     <tabTrigger>mulx</tabTrigger>
     <scope>source.gdl</scope>
-    <description>MULX mx</description>
+    <description>mulx mx</description>
 </snippet>
 

@@ -2,6 +2,6 @@
     <content><![CDATA[circle2 ${1:x}, ${2:y}, ${3:r}]]></content>
     <tabTrigger>circle2</tabTrigger>
     <scope>source.gdl</scope>
-    <description>CIRCLE2 x, y, r</description>
+    <description>circle2 x, y, r</description>
 </snippet>
 

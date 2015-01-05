@@ -2,6 +2,6 @@
     <content><![CDATA[[let] ${1:varname} = ${2:value}]]></content>
     <tabTrigger>let</tabTrigger>
     <scope>source.gdl</scope>
-    <description>[LET] varnam = n</description>
+    <description>[let] varnam = n</description>
 </snippet>
 

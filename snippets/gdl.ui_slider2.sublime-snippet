@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ui_slider{2} ${1:name}, ${2:x0}, ${3:y0}, ${4:width}, ${4:height} [, ${5:nSegments} [, ${6:sliderStyle}]]]]></content>
+    <tabTrigger>ui_slider{2}</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ui_slider{2} name, x0, y0, width, height [, nSegments [, sliderStyle]]</description>
+</snippet>
+

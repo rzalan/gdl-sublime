@@ -426,6 +426,15 @@
 				<string>#f5cd62</string>
 			</dict>
 		</dict>
+			<dict>
+				<key>scope</key>
+				<string>entry.string.localize</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f892ae</string>
+				</dict>
+			</dict>
 
 		<!-- Global -->
 		<dict>

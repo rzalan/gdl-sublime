@@ -37,13 +37,20 @@
                 <string>entry.string.gdl</string>
                 <key>match</key>
                 <string>"([^"]*)"</string>
-            </dict>            
+            </dict>
+                <!-- Strings for localization -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.string.localize.gdl</string>
+                    <key>match</key>
+                    <string>`([^`]*)`</string>
+                </dict>
             <!-- Global parameters and variables -->
             <dict>
                 <key>name</key>
                 <string>entry.global.gdl</string>
                 <key>match</key>
-                <string>\b[A-Z_]*\b</string>
+                <string>\b[A-Z_0-9]*\b</string>
             </dict>
                 <!-- Defined global variables (Archicad) -->
                 <dict>
@@ -59,7 +66,7 @@
                 <key>name</key>
                 <string>entry.command.gdl</string>
                 <key>match</key>
-                <string>\b(call|parameters|returned_parameters|all|values|range|lock|hideparameter|set|define|print|request|use)\b</string>
+                <string>\b(call|parameters|returned_parameters|all|values|range|lock|hideparameter|set|define|print|request|use|put|get|database_set|descriptor|component|ref|values{2}|lock|hideparameter|dim)\b</string>
             </dict>
                 <!-- Stylish commands -->
                 <dict>
@@ -87,9 +94,15 @@
                     <key>name</key>
                     <string>entry.command.3d.gdl</string>
                     <key>match</key>
-                    <string>\b(light|picture|text|richtext|vert|teve|vect|edge|pgon|pgon{2}pipg|coor|body|base|)\b</string>
+                    <string>\b(light|picture|text|richtext|vert|teve|vect|edge|pgon|pgon{2}pipg|coor|body|base|resol|shadow|material)\b</string>
                 </dict>                
-
+                <!-- UI commands -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.command.ui.gdl</string>
+                    <key>match</key>
+                    <string>\b(ui_dialog|ui_page|ui_current_page|ui_button|ui_pict_button|ui_separator|ui_groupbox|ui_pict|ui_style|ui_outfield|ui_infield|ui_infield{2}|ui_infield{3}|ui_infield{4}|ui_radiobutton|ui_tooltip|ui_listfield|ui_listitem|ui_listitem{2}|ui_colorpicker|ui_colorpicker{2}|ui_slider|ui_slider{2})\b</string>
+                </dict>
 
             <!-- Comments -->
             <dict>
@@ -111,21 +124,21 @@
                 <key>name</key>
                 <string>entry.operator.logic.gdl</string>
                 <key>match</key>
-                <string>\b(not|if|then|else|elseif|endif|and|end|for|to|step|next|while|repeat)\b</string>
+                <string>\b(not|if|then|else|endif|and|or|exor|end|for|to|step|next|while|repeat|endwhile|do)\b</string>
             </dict>
                 <!-- Expression operators -->
                 <dict>
                     <key>name</key>
                     <string>entry.operator.exp.gdl</string>
                     <key>match</key>
-                    <string>\b(int|str|stw|sqr|abs|max|min|sgn|cos|sin|tan)\b</string>
+                    <string>\b(int|str|stw|sqr|abs|max|min|sgn|cos|sin|tan|ceil|fra|round_int|acs|asn|atn|exp|lgt|log|rnd|bittest|bitset)\b</string>
                 </dict>
                 <!-- Expression symbols -->
                 <dict>
                     <key>name</key>
                     <string>entry.operator.exp.smb.gdl</string>
                     <key>match</key>
-                    <string>=|-|\+|\*|\/|&lt;|&gt;|\.|,|:|;</string>
+                    <string>=|-|\+|\*|\/|&lt;|&gt;|\.|,|:|;|&amp;</string>
                 </dict>
                 <dict>
                     <key>name</key>

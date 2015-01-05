@@ -2,6 +2,6 @@
     <content><![CDATA[arc2 ${1:x}, ${2:y}, ${3:r}, ${4:alpha}, ${5:beta}]]></content>
     <tabTrigger>arc2</tabTrigger>
     <scope>source.gdl</scope>
-    <description>ARC2 x, y, r, alpha, beta</description>
+    <description>arc2 x, y, r, alpha, beta</description>
 </snippet>
 

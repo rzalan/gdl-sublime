@@ -2,6 +2,6 @@
     <content><![CDATA[project2 ${1:projection_code}, ${2:angle}, ${3:method}]]></content>
     <tabTrigger>project2</tabTrigger>
     <scope>source.gdl</scope>
-    <description>PROJECT2 projection_code, angle, method</description>
+    <description>project2 projection_code, angle, method</description>
 </snippet>
 

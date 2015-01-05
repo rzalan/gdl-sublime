@@ -2,6 +2,6 @@
     <content><![CDATA[poly2_b ${1:n}, ${2:frame_fill}, ${3:fill_pen}, ${4:fill_background_pen}]]></content>
     <tabTrigger>poly2_b</tabTrigger>
     <scope>source.gdl</scope>
-    <description>POLY2_B n, frame_fill, fill_pen, fill_background_pen,</description>
+    <description>poly2_b n, frame_fill, fill_pen, fill_background_pen,</description>
 </snippet>
 
